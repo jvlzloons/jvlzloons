@@ -27,9 +27,6 @@
 
 ![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-
-> *I design it, then I build it.*
-
 [![GitHub](https://img.shields.io/badge/Portfolio-design__portfolio-black?style=flat-square&logo=github)](https://github.com/jvlzloons/design_portfolio)
 
 </div>
