@@ -6,7 +6,7 @@
 
 `pixel-perfect designs` · `clean code` · `creative problem-solving`
 
----
+
 
 ### 🎨 Design
 
@@ -27,7 +27,6 @@
 
 ![CCNA](https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
----
 
 > *I design it, then I build it.*
 
